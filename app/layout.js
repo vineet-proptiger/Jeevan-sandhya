@@ -42,16 +42,16 @@ const nephilm = localFont({
 })
 
 export const metadata = {
-  metadataBase: new URL('https://brigadejeevansandhya.in'),
+  metadataBase: new URL('https://brigadejeevansandhya.com'),
   title: 'Brigade Jeevan Sandhya | Luxury 3, 4 BHK Homes in Talaghattapura, Bangalore',
   description: "Brigade Jeevan Sandhya — A thoughtfully planned 8-acre landmark development in Talaghattapura, Bangalore by Brigade Group. Luxury 3 BHK and 4 BHK apartments in iconic G+47 towers.",
   alternates: {
-    canonical: 'https://brigadejeevansandhya.in/',
+    canonical: 'https://brigadejeevansandhya.com/',
   },
   openGraph: {
     title: 'Brigade Jeevan Sandhya | Luxury Integrated Development in Talaghattapura',
     description: "Discover luxury 3, 4 BHK apartments at Brigade Jeevan Sandhya, an integrated 8-acre landmark development in Talaghattapura, Bangalore.",
-    url: 'https://brigadejeevansandhya.in/',
+    url: 'https://brigadejeevansandhya.com/',
     siteName: 'Brigade Jeevan Sandhya',
     images: [
       {
@@ -90,9 +90,9 @@ export default function RootLayout({ children }) {
               "@context": "https://schema.org",
               "@type": "RealEstateAgent",
               "name": "Brigade Jeevan Sandhya Talaghattapura",
-              "url": "https://brigadejeevansandhya.in/",
-              "logo": "https://brigadejeevansandhya.in/images/logo/Logo.webp",
-              "image": "https://brigadejeevansandhya.in/images/hero/banner.webp",
+              "url": "https://brigadejeevansandhya.com/",
+              "logo": "https://brigadejeevansandhya.com/images/logo/Logo.webp",
+              "image": "https://brigadejeevansandhya.com/images/hero/banner.webp",
               "description": "Brigade Jeevan Sandhya, Bangalore's premier luxury integrated development in Talaghattapura offering 3, 4 BHK luxury residences.",
               "address": {
                 "@type": "PostalAddress",
@@ -105,7 +105,7 @@ export default function RootLayout({ children }) {
               "telephone": "+919718344024",
               "priceRange": "₹ 3 Crore Onwards",
               "sameAs": [
-                "https://brigadejeevansandhya.in"
+                "https://brigadejeevansandhya.com"
               ]
             })
           }}

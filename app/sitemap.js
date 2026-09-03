@@ -1,5 +1,5 @@
 export default function sitemap() {
-  const baseUrl = 'https://brigadejeevansandhya.in/'
+  const baseUrl = 'https://brigadejeevansandhya.com/'
   return [
     {
       url: baseUrl,

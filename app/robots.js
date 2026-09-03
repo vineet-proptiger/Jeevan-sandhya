@@ -4,6 +4,6 @@ export default function robots() {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://brigadejeevansandhya.in/sitemap.xml',
+    sitemap: 'https://brigadejeevansandhya.com/sitemap.xml',
   }
 }
