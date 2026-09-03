@@ -98,7 +98,7 @@ const Navbar = ({ setIsOpen }) => {
         }
 
         .header_style2.sticky .header_navigation2 {
-          width: 230px !important;
+          width: 290px !important;
           height: 56px !important;
           border-radius: 12px !important;
           background: transparent !important;
@@ -109,7 +109,7 @@ const Navbar = ({ setIsOpen }) => {
           padding: 0 !important;
           margin: 0 auto;
           justify-content: center !important;
-          overflow: hidden !important;
+          overflow: visible !important;
           transition: width 0.55s cubic-bezier(0.16, 1, 0.3, 1), 
                       border-radius 0.55s cubic-bezier(0.16, 1, 0.3, 1),
                       background 0.4s ease;
@@ -158,8 +158,8 @@ const Navbar = ({ setIsOpen }) => {
           opacity: 1 !important;
           flex: 0 0 auto !important;
           flex-shrink: 0 !important;
-          min-width: 180px !important;
-          max-width: 205px !important;
+          min-width: 260px !important;
+          max-width: 280px !important;
           background-color: #fff !important;
           padding: 2px 14px !important;
           border-radius: 12px !important;
@@ -218,10 +218,10 @@ const Navbar = ({ setIsOpen }) => {
         .nav-logo,
         .header_style2.sticky .nav-logo,
         .header_style2.scrolled-up-expanded .nav-logo {
-          height: 45px !important;
-          min-height: 45px !important;
-          max-width: 175px !important;
-          width: auto !important;
+          height: 50px !important;
+          min-height: 50px !important;
+          max-width: 270px !important;
+          width: 100% !important;
           flex-shrink: 0 !important;
           display: block;
           object-fit: contain;
@@ -403,7 +403,6 @@ const Navbar = ({ setIsOpen }) => {
             margin: 0 !important;
             border-radius: 0 !important;
             min-width: unset !important;
-            flex: 0 0 auto !important;
             transition: none !important;
             transform: none !important;
           }
@@ -413,8 +412,8 @@ const Navbar = ({ setIsOpen }) => {
           .header_style2.scrolled-up-expanded .nav-logo {
             height: 41px !important;
             min-height: 41px !important;
-            max-width: 160px !important;
-            width: auto !important;
+            max-width: 220px !important;
+            width: 100% !important;
             display: block !important;
             opacity: 1 !important;
             visibility: visible !important;
@@ -538,7 +537,7 @@ const Navbar = ({ setIsOpen }) => {
             
             <li className="navbar-logo">
               <a href="#" className="navbar-brand">
-                <img src={logoImages.tarc} alt="Brigade Jeevan Sandhya" className="nav-logo" />
+                <img src={logoImages.main} alt="Brigade Jeevan Sandhya" className="nav-logo" />
               </a>
             </li>
             

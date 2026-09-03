@@ -33,7 +33,7 @@ export default function PrivacyPolicy() {
                 .privacy-logo { height: 40px; transform-origin: left center; }
               }
             `}</style>
-            <img src={logoImages.tarc} alt="Brigade Jeevan Sandhya" className="privacy-logo" />
+            <img src={logoImages.main} alt="Brigade Jeevan Sandhya" className="privacy-logo" />
           </Link>
           <Link
             href="/"

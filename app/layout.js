@@ -98,12 +98,12 @@ export default function RootLayout({ children }) {
                 "@type": "PostalAddress",
                 "streetAddress": "Talaghattapura",
                 "addressLocality": "Bangalore",
-                "addressRegion": "Telangana",
-                "postalCode": "500030",
+                "addressRegion": "Karnataka",
+                "postalCode": "560109",
                 "addressCountry": "IN"
               },
               "telephone": "+919718344024",
-              "priceRange": "₹ 2.2 Cr Onwards",
+              "priceRange": "₹ 3 Crore Onwards",
               "sameAs": [
                 "https://brigadejeevansandhya.in"
               ]
