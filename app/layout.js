@@ -43,14 +43,14 @@ const nephilm = localFont({
 
 export const metadata = {
   metadataBase: new URL('https://brigadejeevansandhya.com'),
-  title: 'Brigade Jeevan Sandhya | Luxury 3, 4 BHK Homes in Talaghattapura, Bangalore',
-  description: "Brigade Jeevan Sandhya — A thoughtfully planned 8-acre landmark development in Talaghattapura, Bangalore by Brigade Group. Luxury 3 BHK and 4 BHK apartments in iconic G+47 towers.",
+  title: 'Brigade Jeevan Sandhya | Luxury 3, 4 BHK Homes in Kanakapura, Bangalore',
+  description: "Brigade Jeevan Sandhya — A thoughtfully planned 8-acre landmark development in Kanakapura, Bangalore by Brigade Group. Luxury 3 BHK and 4 BHK apartments in iconic G+47 towers.",
   alternates: {
     canonical: 'https://brigadejeevansandhya.com/',
   },
   openGraph: {
-    title: 'Brigade Jeevan Sandhya | Luxury Integrated Development in Talaghattapura',
-    description: "Discover luxury 3, 4 BHK apartments at Brigade Jeevan Sandhya, an integrated 8-acre landmark development in Talaghattapura, Bangalore.",
+    title: 'Brigade Jeevan Sandhya | Luxury Integrated Development in Kanakapura',
+    description: "Discover luxury 3, 4 BHK apartments at Brigade Jeevan Sandhya, an integrated 8-acre landmark development in Kanakapura, Bangalore.",
     url: 'https://brigadejeevansandhya.com/',
     siteName: 'Brigade Jeevan Sandhya',
     images: [
@@ -58,7 +58,7 @@ export const metadata = {
         url: '/images/hero/banner.webp',
         width: 1200,
         height: 630,
-        alt: 'Brigade Jeevan Sandhya Talaghattapura Bangalore',
+        alt: 'Brigade Jeevan Sandhya Kanakapura Bangalore',
       },
     ],
     locale: 'en_IN',
@@ -66,8 +66,8 @@ export const metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Brigade Jeevan Sandhya | Luxury 3, 4 BHK Homes in Talaghattapura',
-    description: "A thoughtfully planned 8-acre landmark development in Talaghattapura, Bangalore by Brigade Group.",
+    title: 'Brigade Jeevan Sandhya | Luxury 3, 4 BHK Homes in Kanakapura',
+    description: "A thoughtfully planned 8-acre landmark development in Kanakapura, Bangalore by Brigade Group.",
     images: ['/images/hero/banner.webp'],
   },
   icons: {
@@ -89,14 +89,14 @@ export default function RootLayout({ children }) {
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "RealEstateAgent",
-              "name": "Brigade Jeevan Sandhya Talaghattapura",
+              "name": "Brigade Jeevan Sandhya Kanakapura",
               "url": "https://brigadejeevansandhya.com/",
               "logo": "https://brigadejeevansandhya.com/images/logo/Logo.webp",
               "image": "https://brigadejeevansandhya.com/images/hero/banner.webp",
-              "description": "Brigade Jeevan Sandhya, Bangalore's premier luxury integrated development in Talaghattapura offering 3, 4 BHK luxury residences.",
+              "description": "Brigade Jeevan Sandhya, Bangalore's premier luxury integrated development in Kanakapura offering 3, 4 BHK luxury residences.",
               "address": {
                 "@type": "PostalAddress",
-                "streetAddress": "Talaghattapura",
+                "streetAddress": "Kanakapura",
                 "addressLocality": "Bangalore",
                 "addressRegion": "Karnataka",
                 "postalCode": "560109",

@@ -179,7 +179,7 @@ const Projects = ({ setIsOpen }) => {
           <div className="w-full lg:w-1/2 project-content-box">
             <h3 className="project-title">Brigade Jeevan Sandhya - LUXURY LIVING</h3>
             <p className="project-desc">
-              The residential phase of Brigade Jeevan Sandhya in Talaghattapura, Bangalore features iconic towers offering luxury 3 BHK and 4 BHK residences. Designed for low-density exclusivity with breathtaking panoramic views and abundant natural light, each apartment is crafted with top-tier specifications. Residents enjoy seamless access to a magnificently engineered clubhouse, landscaped community gardens, swimming pool, high-speed elevators, and premier sport facilities.
+              The residential phase of Brigade Jeevan Sandhya in Kanakapura, Bangalore features iconic towers offering luxury 3 BHK and 4 BHK residences. Designed for low-density exclusivity with breathtaking panoramic views and abundant natural light, each apartment is crafted with top-tier specifications. Residents enjoy seamless access to a magnificently engineered clubhouse, landscaped community gardens, swimming pool, high-speed elevators, and premier sport facilities.
             </p>
             <button
               className="explore-btn"
@@ -209,7 +209,7 @@ const Projects = ({ setIsOpen }) => {
           <div className="w-full lg:w-1/2 project-content-box">
             <h3 className="project-title">Brigade Jeevan Sandhya - PREMIUM LIFESTYLE</h3>
             <p className="project-desc">
-              Complementing the luxury residential towers is a world-class lifestyle precinct. Designed to elevate daily living, it features grand entrance lobbies, ample multi-level parking, exclusive wellness centers, and effortless connectivity to Talaghattapura and major IT hubs. Experience a harmonious blend of nature and modern convenience.
+              Complementing the luxury residential towers is a world-class lifestyle precinct. Designed to elevate daily living, it features grand entrance lobbies, ample multi-level parking, exclusive wellness centers, and effortless connectivity to Kanakapura and major IT hubs. Experience a harmonious blend of nature and modern convenience.
             </p>
             <button
               className="explore-btn"

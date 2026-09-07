@@ -137,7 +137,7 @@ const Location = () => {
               justifyContent: 'center',
             }}>
               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124440.36636750036!2d77.46141380927976!3d12.871146249563503!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3f7ab188989b%3A0x6e8e8a609d5a7114!2sTalaghattapura%2C%20Bengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin" 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124440.36636750036!2d77.46141380927976!3d12.871146249563503!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3f7ab188989b%3A0x6e8e8a609d5a7114!2sKanakapura%2C%20Bengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin" 
                 className="location-responsive-map" 
                 allowFullScreen="" 
                 loading="lazy" 
@@ -173,7 +173,7 @@ const Location = () => {
                   color: '#fff', fontSize: '12px', fontFamily: F_JOST,
                   fontWeight: '700', letterSpacing: '0.04em'
                 }}>
-                  Talaghattapura, Bangalore
+                  Kanakapura, Bangalore
                 </span>
               </div>
             </div>

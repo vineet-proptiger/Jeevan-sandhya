@@ -144,7 +144,7 @@ const Overview = ({ setIsOpen }) => {
               <div className="w-2 h-2 rounded-full bg-[#0E4429] mx-3"></div>
               <div className="w-16 h-[1px] bg-[#0E4429]"></div>
             </div>
-            <h3 className="text-[16px] sm:text-[18px] md:text-[22px] font-medium tracking-wide text-gray-600" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="50" style={{ fontFamily: "var(--font-jost), Montserrat, sans-serif", marginBottom: '24px' }}>Premium Residences in Talaghattapura, Bangalore</h3>
+            <h3 className="text-[16px] sm:text-[18px] md:text-[22px] font-medium tracking-wide text-gray-600" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="50" style={{ fontFamily: "var(--font-jost), Montserrat, sans-serif", marginBottom: '24px' }}>Premium Residences in Kanakapura, Bangalore</h3>
             
             <div style={isExpanded ? {} : { display: '-webkit-box', WebkitLineClamp: '7', WebkitBoxOrient: 'vertical', overflow: 'hidden', marginBottom: '16px' }}>
               <p data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" style={{ fontSize: '16px', fontFamily: '"Poppins", sans-serif', color: '#333', textAlign: 'justify', marginBottom: '12px', lineHeight: '1.8' }}>

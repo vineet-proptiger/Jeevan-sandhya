@@ -443,7 +443,7 @@ const Hero = ({ setIsOpen }) => {
 
         {/* Subtitle */}
         <p className="hero-subtitle">
-          <span style={{ fontSize: '0.9em', fontWeight: 600, textTransform: 'none', color: '#fff' }}>Pre-Launch At Talaghattapura, Bangalore.</span>
+          <span style={{ fontSize: '0.9em', fontWeight: 600, textTransform: 'none', color: '#fff' }}>Pre-Launch At Kanakapura, Bangalore.</span>
         </p>
         
         {/* Bullet Points */}

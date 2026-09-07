@@ -158,8 +158,8 @@ const Navbar = ({ setIsOpen }) => {
           opacity: 1 !important;
           flex: 0 0 auto !important;
           flex-shrink: 0 !important;
-          min-width: 260px !important;
-          max-width: 280px !important;
+          min-width: 280px !important;
+          max-width: 320px !important;
           background-color: #fff !important;
           padding: 2px 14px !important;
           border-radius: 12px !important;
@@ -218,9 +218,9 @@ const Navbar = ({ setIsOpen }) => {
         .nav-logo,
         .header_style2.sticky .nav-logo,
         .header_style2.scrolled-up-expanded .nav-logo {
-          height: 50px !important;
-          min-height: 50px !important;
-          max-width: 270px !important;
+          height: 60px !important;
+          min-height: 60px !important;
+          max-width: 310px !important;
           width: 100% !important;
           flex-shrink: 0 !important;
           display: block;
@@ -250,16 +250,16 @@ const Navbar = ({ setIsOpen }) => {
           .header_style2 .header_navigation2 li.navbar-logo,
           .header_style2.sticky .header_navigation2 li.navbar-logo,
           .header_style2.scrolled-up-expanded .header_navigation2 li.navbar-logo {
-            min-width: 160px !important;
-            max-width: 185px !important;
+            min-width: 180px !important;
+            max-width: 210px !important;
             padding: 2px 12px !important;
           }
           .nav-logo,
           .header_style2.sticky .nav-logo,
           .header_style2.scrolled-up-expanded .nav-logo {
-            height: 41px !important;
-            min-height: 41px !important;
-            max-width: 155px !important;
+            height: 50px !important;
+            min-height: 50px !important;
+            max-width: 200px !important;
           }
         }
 
@@ -285,16 +285,16 @@ const Navbar = ({ setIsOpen }) => {
           .header_style2 .header_navigation2 li.navbar-logo,
           .header_style2.sticky .header_navigation2 li.navbar-logo,
           .header_style2.scrolled-up-expanded .header_navigation2 li.navbar-logo {
-            min-width: 195px !important;
-            max-width: 220px !important;
+            min-width: 220px !important;
+            max-width: 250px !important;
             padding: 3px 16px !important;
           }
           .nav-logo,
           .header_style2.sticky .nav-logo,
           .header_style2.scrolled-up-expanded .nav-logo {
-            height: 49px !important;
-            min-height: 49px !important;
-            max-width: 185px !important;
+            height: 60px !important;
+            min-height: 60px !important;
+            max-width: 240px !important;
           }
         }
 
@@ -320,16 +320,16 @@ const Navbar = ({ setIsOpen }) => {
           .header_style2 .header_navigation2 li.navbar-logo,
           .header_style2.sticky .header_navigation2 li.navbar-logo,
           .header_style2.scrolled-up-expanded .header_navigation2 li.navbar-logo {
-            min-width: 215px !important;
-            max-width: 240px !important;
+            min-width: 240px !important;
+            max-width: 280px !important;
             padding: 4px 18px !important;
           }
           .nav-logo,
           .header_style2.sticky .nav-logo,
           .header_style2.scrolled-up-expanded .nav-logo {
-            height: 53px !important;
-            min-height: 53px !important;
-            max-width: 205px !important;
+            height: 65px !important;
+            min-height: 65px !important;
+            max-width: 260px !important;
           }
         }
 
@@ -410,9 +410,9 @@ const Navbar = ({ setIsOpen }) => {
           .nav-logo,
           .header_style2.sticky .nav-logo,
           .header_style2.scrolled-up-expanded .nav-logo {
-            height: 48px !important;
-            min-height: 48px !important;
-            max-width: 260px !important;
+            height: 56px !important;
+            min-height: 56px !important;
+            max-width: 300px !important;
             width: 100% !important;
             display: block !important;
             opacity: 1 !important;
